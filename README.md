@@ -143,6 +143,4 @@ df.head()
 
 Lanjutkan dari sel `df.info()` dan pembuatan kolom turunan. Jalankan kernel dari folder utama proyek atau folder `notebooks` agar contoh path tersebut sesuai. Notebook yang disimpan dalam repositori tetap mempertahankan kode dan output asli.
 
-## Validasi Paket
 
-Paket diperiksa untuk memastikan seluruh delapan lampiran tersalin tanpa perubahan byte, notebook merupakan JSON valid, dan tautan file lokal dalam README sesuai dengan struktur folder. SQL Server dan seluruh sel notebook belum dieksekusi ulang sebagai bagian dari pengemasan ini.
